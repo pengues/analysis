@@ -13,3 +13,4 @@ The file fcs Analysis Pengue.nb is the fluorescence correlation spectroscopy (FC
 
 kapB1_alexa647_7nM alexa_5nM_fcs contains one example file with a mixture of KapB1-alexa647 and alexa647 in aquous solution. 
 
+All the codes have been written by Simone Pengue
